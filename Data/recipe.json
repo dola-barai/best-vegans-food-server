@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "recipe_name": "Vegan Lentil Soup",
+        "ingredients": [
+            "1 cup of green lentils",
+            "1 onion, diced",
+            "3 cloves of garlic, minced",
+            "2 carrots, diced",
+            "2 celery stalks, diced",
+            "6 cups of vegetable broth",
+            "2 tbsp of olive oil",
+            "1 tsp of cumin",
+            "1 tsp of paprika",
+            "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Heat olive oil in a large pot over medium heat. \n2. Add onion and garlic, cook until onion is translucent. \n3. Add carrots and celery, cook for 5 minutes. \n4. Add cumin and paprika, cook for 1 minute. \n5. Add lentils and vegetable broth, bring to a boil. \n6. Reduce heat to low, cover and simmer for 30-40 minutes or until lentils are tender. \n7. Add salt and pepper to taste.",
+        "rating": 4.8,
+        "favorite": false
+    },
+    {
+        "id": "2",
+        "recipe_name": "Vegan Buddha Bowl",
+        "ingredients": [
+            "1 cup of quinoa",
+            "1 sweet potato, peeled and cubed",
+            "1 avocado, sliced",
+            "1 red bell pepper, sliced",
+            "1 cup of kale, chopped",
+            "1 tbsp of olive oil",
+            "1 tsp of garlic powder",
+            "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Preheat oven to 400°F. \n2. Cook quinoa according to package directions. \n3. Toss sweet potato and red bell pepper with olive oil, garlic powder, salt, and pepper. \n4. Roast for 20-25 minutes or until tender. \n5. In a skillet, sauté kale until wilted. \n6. Assemble bowls by adding quinoa, sweet potato, red bell pepper, avocado, and kale.",
+        "rating": 4.6,
+        "favorite": false
+    },
+    {
+        "id": "3",
+        "recipe_name": "Vegan Chickpea Curry",
+        "ingredients": [
+            "1 can of chickpeas, drained and rinsed",
+            "1 onion, diced",
+            "3 cloves of garlic, minced",
+            "1 red bell pepper, sliced",
+            "1 can of diced tomatoes",
+            "1 can of coconut milk",
+            "2 tbsp of olive oil",
+            "2 tsp of curry powder",
+            "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Heat olive oil in a large pan over medium heat. \n2. Add onion and garlic, cook until onion is translucent. \n3. Add red bell pepper and curry powder, cook for 2 minutes. \n4. Add diced tomatoes, chickpeas, and coconut milk. \n5. Bring to a boil, then reduce heat to low and simmer for 10-15 minutes. \n6. Add salt and pepper to taste.",
+        "rating": 4.7,
+        "favorite": false
+    }
+    
+
+]

@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "picture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1683088455~exp=1683089055~hmac=af1ea310e5d71b49a47fd3650c5f0e150dd71d1d856ac2a8450117b8862b0fa1",
+      "name": "John Smith",
+      "experience_years": 10,
+      "num_recipes": 50,
+      "likes": 20000
+    },
+    {
+      "id": "2",
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683088498~exp=1683089098~hmac=a318480a7e699a59a4cd18af96f1008986cd96fca179f871939e56ebd371bd7c",
+      "name": "Alice Johnson",
+      "experience_years": 8,
+      "num_recipes": 40,
+      "likes": 18000
+    },
+    {
+      "id": "3",
+      "picture": "https://img.freepik.com/free-photo/studio-portrait-male-chef-preparing-healthy-salad_613910-10001.jpg?w=740&t=st=1683088757~exp=1683089357~hmac=5d7057fb4faa68ecea0fafd8da7e4a0ebf4270103f7056a7c6d15bc0f0428cf2",
+      "name": "Michael Lee",
+      "experience_years": 12,
+      "num_recipes": 60,
+      "likes": 25000
+    },
+    {
+      "id": "4",
+      "picture": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?w=740&t=st=1683088543~exp=1683089143~hmac=a4ef478e4e41d7f8c888e6ad9cfd1dce6639ce301d758f0a70e05161291ecf15",
+      "name": "Jessica Chen",
+      "experience_years": 6,
+      "num_recipes": 30,
+      "likes": 15000
+    },
+    {
+      "id": "5",
+      "picture": "https://img.freepik.com/free-photo/man-cook-holds-pan-with-vegetables-flying-air_613910-10109.jpg?w=740&t=st=1683088711~exp=1683089311~hmac=aae2b6cb061760d7f3df7846564da9f18318978b6bdc5fbea5661d319f64d5b5",
+      "name": "David Kim",
+      "experience_years": 9,
+      "num_recipes": 45,
+      "likes": 22000
+    },
+    {
+      "id": "6",
+      "picture": "https://img.freepik.com/free-photo/chef-female-holds-punmping-dark-background_613910-7184.jpg?w=740&t=st=1683088736~exp=1683089336~hmac=f4132de933d7b7c8eed38f11bb82e0bea160a93cdc8bd2ec22fb5404cbafbfc5",
+      "name": "Karen Wong",
+      "experience_years": 7,
+      "num_recipes": 35,
+      "likes": 17000
+    }
+  ]
