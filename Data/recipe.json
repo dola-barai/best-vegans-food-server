@@ -1,6 +1,7 @@
 [
     {
         "id": "1",
+        "picture": "https://img.freepik.com/free-photo/top-view-delicious-lentils-soup-inside-plate-light-background-plant-soup-color-photo-food-seed-dish-free-space_140725-108890.jpg?w=740&t=st=1683136822~exp=1683137422~hmac=9a86d0c03b7405acf057114f0bc8ec2e77c8066c4c690a4abaa8129ae576f7c1",
         "recipe_name": "Vegan Lentil Soup",
         "ingredients": [
             "1 cup of green lentils",
@@ -20,6 +21,7 @@
     },
     {
         "id": "2",
+        "picture": "https://img.freepik.com/free-photo/vegan-poke-bowl-with-marinated-tofu-photography_53876-104593.jpg?w=740&t=st=1683136896~exp=1683137496~hmac=b74e5201815baebcd066cd9810cd690987a108b82ce04729e1c7f5a6482dee32",
         "recipe_name": "Vegan Buddha Bowl",
         "ingredients": [
             "1 cup of quinoa",
@@ -37,6 +39,7 @@
     },
     {
         "id": "3",
+        "picture": "https://img.freepik.com/free-photo/tasty-british-bean-stew-bowls_23-2148746860.jpg?w=740&t=st=1683136955~exp=1683137555~hmac=39df52f39a3172d6683947a1d9a01985147cb5a70d8cc41d7756d0015c4a332e",
         "recipe_name": "Vegan Chickpea Curry",
         "ingredients": [
             "1 can of chickpeas, drained and rinsed",
